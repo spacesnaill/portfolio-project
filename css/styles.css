@@ -73,6 +73,7 @@ body {
 .project-box > img {
 	width: 350px;
 	height: 150px;
+	border-radius: 25px;
 }
 
 .project-box > h2 {
