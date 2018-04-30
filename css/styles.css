@@ -4,7 +4,6 @@
 }
 
 body {
-	padding: 5px;
 }
 
 .header {
@@ -52,7 +51,7 @@ body {
 	width: 100%;
 }
 
-.featured-work-heading {
+.section-heading {
 	font-size: 2.5em;
 	color: #7d97ad;
 }
@@ -84,3 +83,13 @@ body {
 	margin-top: 0px;
 }
 
+.footer-box {
+	display: flex;
+	left: 0;
+	bottom: 0;
+	background-color: #02b3e4;
+	height: 50px;
+	width: 100%;
+	margin: 0px;
+
+}
