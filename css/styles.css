@@ -64,11 +64,16 @@ body {
 	text-align: center;
 }
 
+.project-box > img {
+	width: 350px;
+	height: 150px;
+}
+
 .project-box > h2 {
 	margin: 0px;
 }
 
-.project-box > p {
+.project-link > p {
 	margin-top: 0px;
 }
 
