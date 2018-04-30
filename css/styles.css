@@ -1,0 +1,55 @@
+* {
+	border: 1px solid black;
+}
+
+body {
+	padding: 5px;
+}
+
+.header {
+	border-radius: 25px;
+	height: 150px;
+	width: 100%;
+}
+
+.name-container {
+	width: 25%;
+	margin: 10px;
+	float: right;
+}
+
+.name {
+	color: #2d3c49;
+	text-align: right;
+}
+.logo {
+	height: 100px;
+	width: 100px;
+	float: left;
+}
+
+.name-subtitle {
+	text-align: right;
+}
+
+.header-body-divider {
+	height: 2.5px;
+	width: 100%;
+	background-color: black;
+}
+
+.tech-image {
+	height: 765px;
+	width: 100%;
+}
+
+.featured-work {
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+}
+
+.project-box {
+	max-width: 100%;
+	margin: auto;
+}
