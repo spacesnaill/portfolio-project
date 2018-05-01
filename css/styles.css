@@ -3,9 +3,7 @@
 	font-family: 'Amaranth', sans-serif;
 }
 
-body {
-}
-
+/* Header */
 .header {
 	display: flex;
 	flex-direction: row;
@@ -25,8 +23,8 @@ body {
 .name {
 	color: #2d3c49;
 	font-size: 2.7em;
-	margin-top: 0px;
-	margin-bottom: 0px;
+	margin-top: 0;
+	margin-bottom: 0;
 }
 .logo {
 	width: 25%;
@@ -36,7 +34,7 @@ body {
 }
 
 .name-subtitle {
-	margin-top: 0px;
+	margin-top: 0;
 	font-size: 1.6em;
 }
 
@@ -46,6 +44,8 @@ body {
 	background-color: #7d97ad;
 }
 
+
+/* Body */
 .tech-image {
 	height: 765px;
 	width: 100%;
@@ -100,21 +100,16 @@ body {
 }
 
 .project-box > h2 {
-	margin: 0px;
+	margin: 0;
 }
 
 .project-link {
-	margin-top: 0px;
+	margin-top: 0;
 	font-size: 1.2em;
 }
 
+
+/* Footer */
 .footer-box {
-	display: flex;
-	left: 0;
-	bottom: 0;
-	background-color: #02b3e4;
-	height: 50px;
-	width: 100%;
-	margin: 0px;
 
 }
