@@ -52,33 +52,33 @@
 }
 
 @media only screen and (max-width: 425px) {
-    .name{
-    	font-size: 1.9em;
-    }
+	.name{
+		font-size: 1.9em;
+	}
 }
 
 @media only screen and (max-width: 600px) {
-    .tech-image {
-    	height: 350px;
-    }
+	.tech-image {
+		height: 350px;
+	}
 }
 
 @media only screen and (min-width: 600px) and (max-width: 1200px) {
-    .tech-image {
-    	height: 500px;
-    }
+	.tech-image {
+		height: 500px;
+	}
 }
 
 @media only screen and (min-width: 1200px) {
-    .tech-image {
-    	height: 500px;
-    }
+	.tech-image {
+		height: 500px;
+	}
 
-    body {
-    	width: 1200px;
-    	margin-left: auto;
-    	margin-right: auto;
-    }
+	body {
+		width: 1200px;
+		margin-left: auto;
+		margin-right: auto;
+	}
 }
 
 .section-heading {
