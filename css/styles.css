@@ -51,6 +51,30 @@ body {
 	width: 100%;
 }
 
+@media only screen and (max-width: 600px) {
+    .tech-image {
+    	height: 350px;
+    }
+}
+
+@media only screen and (min-width: 600px) and (max-width: 1200px) {
+    .tech-image {
+    	height: 500px;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .tech-image {
+    	height: 500px;
+    }
+
+    body {
+    	width: 1200px;
+    	margin-left: auto;
+    	margin-right: auto;
+    }
+}
+
 .section-heading {
 	font-size: 2.5em;
 	color: #7d97ad;
