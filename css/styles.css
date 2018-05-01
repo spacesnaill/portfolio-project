@@ -103,8 +103,9 @@ body {
 	margin: 0px;
 }
 
-.project-box > p {
+.project-link {
 	margin-top: 0px;
+	font-size: 1.2em;
 }
 
 .footer-box {
