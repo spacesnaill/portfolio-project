@@ -51,6 +51,12 @@
 	width: 100%;
 }
 
+@media only screen and (max-width: 425px) {
+    .name{
+    	font-size: 1.9em;
+    }
+}
+
 @media only screen and (max-width: 600px) {
     .tech-image {
     	height: 350px;
