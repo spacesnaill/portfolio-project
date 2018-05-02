@@ -1,6 +1,10 @@
 * {
-	
 	font-family: 'Amaranth', sans-serif;
+}
+
+body {
+	margin: 0;
+	padding: 0;
 }
 
 /* Header */
@@ -57,7 +61,14 @@
 	}
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 320px) {
+	
+	.tech-image {
+		height: 250px;
+	}
+}
+
+@media only screen and (min-width: 321px) and (max-width: 600px) {
 	.tech-image {
 		height: 350px;
 	}
