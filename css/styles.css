@@ -30,9 +30,11 @@ body {
 	margin-top: 0;
 	margin-bottom: 0;
 }
+
 .logo {
 	width: 25%;
 }
+
 .logo > img {
 	height: 110px;
 }
