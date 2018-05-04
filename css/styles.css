@@ -1,4 +1,5 @@
-* {
+header, 
+main {
 	font-family: 'Amaranth', sans-serif;
 }
 
@@ -131,5 +132,13 @@ body {
 
 /* Footer */
 .footer-box {
+	text-align: center;
+}
 
+.fa-square {
+	color: #2d3c49
+}
+
+.social-link {
+	margin: 5px;
 }
