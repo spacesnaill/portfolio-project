@@ -12,6 +12,6 @@ This was created as part of the Udacity Fullstack Nanodegree to practice HTML an
 
 # How to run
 <br>
-The live version of this website can be found at: https://s3.amazonaws.com/patrick-geiger-portfolio/index.html
+The live version of this website can be found at: http://patrickjgeiger.com
 <br>
 If you wish to run this on your local machine, download the repository and open the index.html file in your preferred browser.
